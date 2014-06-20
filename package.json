@@ -1,8 +1,8 @@
 {
-  "name": "hosted-hubot",
+  "name": "kawaztan-hipchat",
   "version": "2.7.1",
   "private": true,
-  "author": "GitHub Inc.",
+  "author": "Kawaz",
   "keywords": [
     "github",
     "hubot",
